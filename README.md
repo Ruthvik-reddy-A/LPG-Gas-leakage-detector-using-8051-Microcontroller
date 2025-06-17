@@ -38,6 +38,7 @@ The entire system is implemented using **AT89S52** (8051 microcontroller) progra
 
 ## 🧱 Flow Chart
 
+
 ![image](https://github.com/user-attachments/assets/51fb0f6b-2d98-4a12-b536-a32751a3d481)
 
 
@@ -45,6 +46,11 @@ The entire system is implemented using **AT89S52** (8051 microcontroller) progra
 
 ## 📐 Circuit Diagram
 
+
 <img width="283" alt="image" src="https://github.com/Ruthvik-reddy-A/LPG-GAS-LEAKAGE-DETECTOR-USING-8051-Microcontroller/assets/73007037/7cd93bc0-2bf9-4bbe-ba0c-8dece193ff5b">
+
+
+
+
 
 ---
